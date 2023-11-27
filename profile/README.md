@@ -1,3 +1,5 @@
+![Team SOBITS Profile Pic](../imgs/sobits_profile.png)
+
 ## We are Team SOBITS
 
 SOBITS is an AI Robotics laboratory team based at the [Faculty of Science and Engineering](https://www.soka.ac.jp/en/academics/guideline/science) of [Soka University Japan](https://www.soka.ac.jp/en/). Formally consolidated in 2010, we have been striving on both software and hardware with a mindset that values self-development, humanistic principles, and the pursuit of happiness.
