@@ -15,8 +15,8 @@ So far, we have built up robots such as [SOBIT PRO](https://github.com/TeamSOBIT
 	    <li><a href="https://home.soka.ac.jp/~choi/">Official Website</a></li>
 		<li>Social Media
 			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Twitter</a></li>
-				<li><a href="https://github.com/rails/rails">Instagram</a></li>
+				<li><a href="https://twitter.com/sobits_soka">Twitter</a></li>
+				<li><a href="https://instagram.com/sobits_soka">Instagram</a></li>
 			</ul>
 		</li>
 		<li>WE ARE OPEN-SOURCING! Help us to create a better society with the help of robotics.</li>
