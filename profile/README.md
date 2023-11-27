@@ -1,4 +1,4 @@
-![Team SOBITS Profile Pic](../imgs/sobits_profile.png)
+![Team SOBITS Profile Pic](https://github.com/TeamSOBITS/.github/blob/main/imgs/sobits_profile.png)
 
 ## We are Team SOBITS
 
