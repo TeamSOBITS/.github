@@ -19,7 +19,7 @@ So far, we have built up robots such as [SOBIT PRO](https://github.com/TeamSOBIT
 				<li><a href="https://instagram.com/sobits_soka">Instagram</a></li>
 			</ul>
 		</li>
-		<li>WE ARE OPEN-SOURCING! Help us to create a better society with the help of robotics.</li>
+		<li>WE ARE OPEN-SOURCING! Help us to create a better society with the power of robotics.</li>
 	</ul>
 </details>
 
